@@ -20,7 +20,7 @@ window.SITE = {
   ],
 
   hero: {
-    image: "assets/hero.jpg",    // upload a photo with this name to change the hero
+    image: "IMG_8727.jpeg",           // upload a photo with this name to change the hero
     heading: "Thoughtful gifts. Delivered beautifully with intentionality.",
     text: "Discover something special for someone you love.",
     button: "Explore gifts",
